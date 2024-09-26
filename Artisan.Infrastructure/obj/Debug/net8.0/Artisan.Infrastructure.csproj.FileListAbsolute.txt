@@ -17,3 +17,4 @@ C:\Users\Lana\source\repos\Artisan.Infrastructure\obj\Debug\net8.0\refint\Artisa
 C:\Users\Lana\source\repos\Artisan.Infrastructure\obj\Debug\net8.0\Artisan.Infrastructure.pdb
 C:\Users\Lana\source\repos\Artisan.Infrastructure\obj\Debug\net8.0\Artisan.Infrastructure.genruntimeconfig.cache
 C:\Users\Lana\source\repos\Artisan.Infrastructure\obj\Debug\net8.0\ref\Artisan.Infrastructure.dll
+C:\Users\Lana\source\repos\Artisan.Infrastructure\obj\Debug\net8.0\Artisan.Infrastructure.sourcelink.json

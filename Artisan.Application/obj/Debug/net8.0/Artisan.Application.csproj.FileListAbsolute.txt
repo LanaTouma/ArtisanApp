@@ -13,3 +13,4 @@ C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\Artisan.Applicat
 C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\refint\Artisan.Application.dll
 C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\Artisan.Application.pdb
 C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\ref\Artisan.Application.dll
+C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\Artisan.Application.sourcelink.json

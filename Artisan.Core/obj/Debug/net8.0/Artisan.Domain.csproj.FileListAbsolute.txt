@@ -9,3 +9,4 @@ C:\Users\Lana\source\repos\Artisan.Core\obj\Debug\net8.0\Artisan.Domain.dll
 C:\Users\Lana\source\repos\Artisan.Core\obj\Debug\net8.0\refint\Artisan.Domain.dll
 C:\Users\Lana\source\repos\Artisan.Core\obj\Debug\net8.0\Artisan.Domain.pdb
 C:\Users\Lana\source\repos\Artisan.Core\obj\Debug\net8.0\ref\Artisan.Domain.dll
+C:\Users\Lana\source\repos\Artisan.Core\obj\Debug\net8.0\Artisan.Domain.sourcelink.json
